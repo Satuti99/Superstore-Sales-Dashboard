@@ -8,9 +8,9 @@ Incorporated data analysis techniques, specializing in time series analysis, to 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Power BI Service: For publishing, sharing, and collaborating on dashboards online.
--Data Sources:Azure SQL Database,Excel Files,CSV Files, PostgreSQL, Oracle Databases
--Data Transformation & Modeling: Power Query (M language) and DAX (Data Analysis Expressions).
--Visualization Plugins: Custom visuals from the Power BI Marketplace.
+- Data Sources:Azure SQL Database,Excel Files,CSV Files, PostgreSQL, Oracle Databases
+- Data Transformation & Modeling: Power Query (M language) and DAX (Data Analysis Expressions).
+- Visualization Plugins: Custom visuals from the Power BI Marketplace.
 
 
 ## <a name="features">🔋Objective</a>
